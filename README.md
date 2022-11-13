@@ -36,13 +36,13 @@ BUILD SUCCESSFUL in 0s
 ## 🚀 기능 요구 사항
 아래의 7가지 기능 요구 사항을 모두 해결해야 한다.
 
-1. [문제 1](./docs/PROBLEM1.md)
-2. [문제 2](./docs/PROBLEM2.md)
-3. [문제 3](./docs/PROBLEM3.md)
-4. [문제 4](./docs/PROBLEM4.md)
-5. [문제 5](./docs/PROBLEM5.md)
-6. [문제 6](./docs/PROBLEM6.md)
-7. [문제 7](./docs/PROBLEM7.md)
+1. [문제 1](./docs/PROBLEM1.md) - [풀이](./src/main/java/onboarding/Problem1.java)
+2. [문제 2](./docs/PROBLEM2.md) - [풀이](./src/main/java/onboarding/Problem2.java)
+3. [문제 3](./docs/PROBLEM3.md) - [풀이](./src/main/java/onboarding/Problem3.java)
+4. [문제 4](./docs/PROBLEM4.md) - [풀이](./src/main/java/onboarding/Problem4.java)
+5. [문제 5](./docs/PROBLEM5.md) - [풀이](./src/main/java/onboarding/Problem5.java)
+6. [문제 6](./docs/PROBLEM6.md) - [풀이](./src/main/java/onboarding/Problem6.java)
+7. [문제 7](./docs/PROBLEM7.md) - [풀이](./src/main/java/onboarding/Problem7.java)
 
 ---
 
